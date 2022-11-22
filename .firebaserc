@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fundium-a94b0": {
+      "hosting": {
+        "Fundium": [
+          "fundium-a94b0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fundium-a94b0"
+  }
+}

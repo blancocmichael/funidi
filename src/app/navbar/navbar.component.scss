@@ -1,0 +1,53 @@
+
+
+#header-logo{
+    background: url("/assets/img/logo.png") no-repeat center center;
+    background-size: cover;
+    width: 180px
+  
+  }
+  
+
+  
+  .navbar.is-info {
+    background-color: #2E6485;
+    color: #fff;
+}
+
+
+form {
+  width: 300px;
+  height: 55px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+  
+    body {
+      color: #ffffff;
+      font-size: 1em;
+      font-weight: 900;
+      line-height: 1.5;
+  }
+
+
+    #login{
+      background: url("/assets/img/MetaMask-Emblem.png") no-repeat center center;
+      background-size: cover;
+      width: 180px
+    }
+
+
+
+    input[type="search" i] {
+      
+      width: 600px;
+      color: gray;
+      appearance: auto;
+      box-sizing: border-box;
+      padding: 2px 2px;
+  }
+
+ 
